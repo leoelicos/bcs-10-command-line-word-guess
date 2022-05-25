@@ -20,10 +20,15 @@ I made this app to learn about Object-oriented programming concepts including Cl
 
 ## Usage
 
-| Steps         | Details         |
-| ------------- | --------------- |
-| Start         | `npm start`     |
-| Play the game | <kbd>abcd</kbd> |
+| Steps                                      | Details                       |
+| ------------------------------------------ | ----------------------------- |
+| Start                                      | `npm start`                   |
+| Read the hint                              | `___ ___`                     |
+| Type a letter, then press Enter            | <kbd>o</kbd> <kbd>Enter</kbd> |
+| If correct, it will render                 | `_o_ ___`                     |
+| Type another letter, then press Enter      | <kbd>y</kbd> <kbd>Enter</kbd> |
+| If incorrect, you have 9 guesses left      | `_o_ ___`                     |
+| Keep going until you guess all the letters | `Top Gun`                     |
 
 ## Video Demo
 
@@ -31,7 +36,7 @@ I made this app to learn about Object-oriented programming concepts including Cl
 
 ## Testing
 
-In order to run tests, simply type in the command line
+The tests are for the classes `Letter` and `Word`. In order to run tests, simply type in the command line
 
 ```js
 npm run test
