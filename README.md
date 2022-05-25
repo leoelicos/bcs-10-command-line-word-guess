@@ -32,6 +32,8 @@ I made this app to learn about Object-oriented programming concepts including Cl
 
 ## Video Demo
 
+https://user-images.githubusercontent.com/99461390/170268840-e2e9c153-d694-4735-bbf7-cb895c160623.mp4
+
 ---
 
 ## Testing
@@ -44,9 +46,17 @@ npm run test
 
 ## Screenshots
 
-### Screenshot: Command-line
+### Screenshot: Start of game
 
-![Screenshot: Command-line]()
+![Screenshot: Start of game](https://user-images.githubusercontent.com/99461390/170268864-38dcc46f-f03c-499c-816d-6504d7125a16.png)
+
+### Screenshot: Gameplay
+ 
+![Screenshot: Gameplay](https://user-images.githubusercontent.com/99461390/170269148-307aecbb-da67-405f-9ad4-f0d33f3f33c4.png)
+
+### Screenshot: End of game
+
+![Screenshot: End of game](https://user-images.githubusercontent.com/99461390/170269156-395a01d4-9669-489c-8f2c-d7c95cf699be.png)
 
 ## Credits
 
