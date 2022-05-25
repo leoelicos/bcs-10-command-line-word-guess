@@ -20,15 +20,16 @@ I made this app to learn about Object-oriented programming concepts including Cl
 
 ## Usage
 
-| Steps                                      | Details                       |
-| ------------------------------------------ | ----------------------------- |
-| Start                                      | `npm start`                   |
-| Read the hint                              | `___ ___`                     |
-| Type a letter, then press Enter            | <kbd>o</kbd> <kbd>Enter</kbd> |
-| If correct, it will render                 | `_o_ ___`                     |
-| Type another letter, then press Enter      | <kbd>y</kbd> <kbd>Enter</kbd> |
-| If incorrect, you have 9 guesses left      | `_o_ ___`                     |
-| Keep going until you guess all the letters | `Top Gun`                     |
+| Steps                                      | Details                                 |
+| ------------------------------------------ | --------------------------------------- |
+| Start                                      | `npm start`                             |
+| Read the hint                              | `___ ___`                               |
+| Type a letter, then press Enter            | <kbd>o</kbd> <kbd>Enter</kbd>           |
+| If correct, it will render                 | `_o_ ___`                               |
+| Type another letter, then press Enter      | <kbd>y</kbd> <kbd>Enter</kbd>           |
+| If incorrect, you have 9 guesses left      | `_o_ ___`                               |
+| Keep going until you guess all the letters | `Top Gun`                               |
+| End the game at any time                   | <kbd>Ctrl + C</kbd> or <kbd>⌘ + C</kbd> |
 
 ## Video Demo
 
@@ -51,7 +52,7 @@ npm run test
 ![Screenshot: Start of game](https://user-images.githubusercontent.com/99461390/170268864-38dcc46f-f03c-499c-816d-6504d7125a16.png)
 
 ### Screenshot: Gameplay
- 
+
 ![Screenshot: Gameplay](https://user-images.githubusercontent.com/99461390/170269148-307aecbb-da67-405f-9ad4-f0d33f3f33c4.png)
 
 ### Screenshot: End of game
