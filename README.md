@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Command Line Word Guess is a command-line application that allows the user to play a game to guess a mystery word by typing letters from the keyboard.
+Command Line Word Guess is a command-line application that allows the user to play a game to guess the name of a movie by typing letters from the keyboard.
 
 The app uses `inquirer` to prompt the user with queries rendered with `chalk`, and the returned data is used to determine whether the user has won or lost the game.
 
